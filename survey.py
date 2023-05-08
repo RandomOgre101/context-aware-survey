@@ -3,7 +3,7 @@ import json
 import requests
 
 
-openai.api_key = "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"
+openai.api_key = "API KEY HERE"
 
 def get_location():
     try:
