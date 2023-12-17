@@ -1,11 +1,10 @@
 import React from "react";
-import SurveyForm from "./components/SurveyForm";
+import Landing from "../src/pages/Landing";
 
 function App() {
   return (
     <div>
-      <h1>Survey Form</h1>
-      <SurveyForm />
+      <Landing />
     </div>
   );
 }
